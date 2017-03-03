@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>songfilename</key>
+        <string>李荣浩 - 不将就 (《何以笙箫默》电影片尾主题曲)</string>
+        <key>songname</key>
+        <string>不将就 (《何以笙箫默》电影片尾主题曲)</string>
+        <key>artist</key>
+        <string>李荣浩</string>
+        <key>album</key>
+        <string></string>
+        <key>artworkfilename</key>
+        <string>李荣浩 - 不将就 (《何以笙箫默》电影片尾主题曲)</string>
+    </dict>
+	<dict>
+		<key>songfilename</key>
+		<string>Daydream - 泪花</string>
+        <key>songname</key>
+        <string>泪花</string>
+        <key>artist</key>
+        <string>Daydream</string>
+        <key>album</key>
+        <string>背景音乐之旅·感人之声</string>
+        <key>artworkfilename</key>
+        <string>Daydream - 泪花</string>
+	</dict>
+    <dict>
+        <key>songfilename</key>
+        <string>李荣浩 - 模特</string>
+        <key>songname</key>
+        <string>模特</string>
+        <key>artist</key>
+        <string>李荣浩</string>
+        <key>album</key>
+        <string>模特</string>
+        <key>artworkfilename</key>
+        <string>李荣浩 - 模特</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Otokaze - 夏恋</string>
+        <key>songname</key>
+        <string>夏恋</string>
+        <key>artist</key>
+        <string>Otokaze</string>
+        <key>album</key>
+        <string>Otokaze / 夏恋</string>
+        <key>artworkfilename</key>
+        <string>Otokaze - 夏恋</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Timbaland - Apologize</string>
+        <key>songname</key>
+        <string>Apologize</string>
+        <key>artist</key>
+        <string>Timbaland</string>
+        <key>album</key>
+        <string>Timbaland Presents: Shock Value</string>
+        <key>artworkfilename</key>
+        <string>Timbaland - Apologize</string>
+    </dict>
+	<dict>
+		<key>songfilename</key>
+		<string>Clifford White - A Blessing</string>
+        <key>songname</key>
+        <string>A Blessing</string>
+        <key>artist</key>
+        <string>Clifford White</string>
+        <key>album</key>
+        <string>The Healing Touch</string>
+        <key>artworkfilename</key>
+        <string>Clifford White - A Blessing</string>
+	</dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Lene Marlin - A Place Nearby</string>
+        <key>songname</key>
+        <string>A Place Nearby</string>
+        <key>artist</key>
+        <string>Lene Marlin</string>
+        <key>album</key>
+        <string>Playing My Game</string>
+        <key>artworkfilename</key>
+        <string>Lene Marlin - A Place Nearby</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>艋舺 - Brotherhood</string>
+        <key>songname</key>
+        <string>Brotherhood</string>
+        <key>artist</key>
+        <string>艋舺</string>
+        <key>album</key>
+        <string>艋舺 电影原声带</string>
+        <key>artworkfilename</key>
+        <string>艋舺 - Brotherhood</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Shakira - Can&apos;t Remember To Forget You</string>
+        <key>songname</key>
+        <string>Can&apos;t Remember To Forget You</string>
+        <key>artist</key>
+        <string>Shakira</string>
+        <key>album</key>
+        <string>Can&apos;t Remember To Forget You</string>
+        <key>artworkfilename</key>
+        <string>Shakira - Can&apos;t Remember To Forget You</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Fall Out Boy - Centuries</string>
+        <key>songname</key>
+        <string>Centuries</string>
+        <key>artist</key>
+        <string>Fall Out Boy</string>
+        <key>album</key>
+        <string>Centuries</string>
+        <key>artworkfilename</key>
+        <string>Fall Out Boy - Centuries</string>
+    </dict>
+	<dict>
+		<key>songfilename</key>
+		<string>Cara Dillon - Craigie Hill</string>
+        <key>songname</key>
+        <string>Craigie Hill</string>
+        <key>artist</key>
+        <string>Cara Dillon</string>
+        <key>album</key>
+        <string>Cara Dillon</string>
+        <key>artworkfilename</key>
+        <string>Cara Dillon - Craigie Hill</string>
+	</dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Basshunter - Dirty</string>
+        <key>songname</key>
+        <string>Dirty</string>
+        <key>artist</key>
+        <string>Basshunter</string>
+        <key>album</key>
+        <string>Calling Time</string>
+        <key>artworkfilename</key>
+        <string>Basshunter - Dirty</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Andemund Orchestra - Dream World</string>
+        <key>songname</key>
+        <string>Dream World</string>
+        <key>artist</key>
+        <string>Andemund Orchestra</string>
+        <key>album</key>
+        <string>减压音乐绿钢琴</string>
+        <key>artworkfilename</key>
+        <string>Andemund Orchestra - Dream World</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>The Cranberries - Dying In The Sun</string>
+        <key>songname</key>
+        <string>Dying In The Sun</string>
+        <key>artist</key>
+        <string>The Cranberries</string>
+        <key>album</key>
+        <string>bury the hatchet</string>
+        <key>artworkfilename</key>
+        <string>The Cranberries - Dying In The Sun</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>曲婉婷 - Everything in the World</string>
+        <key>songname</key>
+        <string>Everything in the World</string>
+        <key>artist</key>
+        <string>曲婉婷</string>
+        <key>album</key>
+        <string>我的歌声里</string>
+        <key>artworkfilename</key>
+        <string>曲婉婷 - Everything in the World</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Alan Walker - Fade</string>
+        <key>songname</key>
+        <string>Fade</string>
+        <key>artist</key>
+        <string>Alan Walker</string>
+        <key>album</key>
+        <string>Fade</string>
+        <key>artworkfilename</key>
+        <string>Alan Walker - Fade</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Dj Okawari - Flower Dance (纯音乐)</string>
+        <key>songname</key>
+        <string>Flower Dance (纯音乐)</string>
+        <key>artist</key>
+        <string>Dj Okawari</string>
+        <key>album</key>
+        <string>A Cup Of Coffee</string>
+        <key>artworkfilename</key>
+        <string>Dj Okawari - Flower Dance (纯音乐)</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Calvin Harris - I Need Your Love  (Extended Version)</string>
+        <key>songname</key>
+        <string>I Need Your Love  (Extended Version)</string>
+        <key>artist</key>
+        <string>Calvin Harris</string>
+        <key>album</key>
+        <string>I Need Your Love</string>
+        <key>artworkfilename</key>
+        <string>Calvin Harris - I Need Your Love  (Extended Version)</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Richard Clayderman - Lettre A Ma Mere</string>
+        <key>songname</key>
+        <string>Lettre A Ma Mere</string>
+        <key>artist</key>
+        <string>Richard Clayderman</string>
+        <key>album</key>
+        <string>背景音乐之旅·感人之声</string>
+        <key>artworkfilename</key>
+        <string>Richard Clayderman - Lettre A Ma Mere</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Passenger - Let Her Go</string>
+        <key>songname</key>
+        <string>Let Her Go</string>
+        <key>artist</key>
+        <string>Passenger</string>
+        <key>album</key>
+        <string>All The Little Lights</string>
+        <key>artworkfilename</key>
+        <string>Passenger - Let Her Go</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Lily Allen - Littlest Things</string>
+        <key>songname</key>
+        <string>Littlest Things</string>
+        <key>artist</key>
+        <string>Lily Allen</string>
+        <key>album</key>
+        <string>Alright, Still</string>
+        <key>artworkfilename</key>
+        <string>Lily Allen - Littlest Things</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>邓福如 - Me And You</string>
+        <key>songname</key>
+        <string>Me And You</string>
+        <key>artist</key>
+        <string>邓福如</string>
+        <key>album</key>
+        <string>Me And You</string>
+        <key>artworkfilename</key>
+        <string>邓福如 - Me And You</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>艋舺 - Monga-Memoir</string>
+        <key>songname</key>
+        <string>Monga-Memoir</string>
+        <key>artist</key>
+        <string>艋舺</string>
+        <key>album</key>
+        <string>艋舺 电影原声带</string>
+        <key>artworkfilename</key>
+        <string>艋舺 - Monga-Memoir</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Bandari - Mystica (Remix)</string>
+        <key>songname</key>
+        <string>Mystica (Remix)</string>
+        <key>artist</key>
+        <string>Bandari</string>
+        <key>album</key>
+        <string>New Age Top 2010</string>
+        <key>artworkfilename</key>
+        <string>Bandari - Mystica (Remix)</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Fall Out Boy - My Songs Know What You Did In The Dark Light Em Up</string>
+        <key>songname</key>
+        <string>My Songs Know What You Did In The Dark Light Em Up</string>
+        <key>artist</key>
+        <string>Fall Out Boy</string>
+        <key>album</key>
+        <string>Save Rock and Roll</string>
+        <key>artworkfilename</key>
+        <string></string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Enya - Only Time</string>
+        <key>songname</key>
+        <string>Only Time</string>
+        <key>artist</key>
+        <string>Enya</string>
+        <key>album</key>
+        <string>The Very Best Of Enya</string>
+        <key>artworkfilename</key>
+        <string>Enya - Only Time</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Madeon - Pay No Mind</string>
+        <key>songname</key>
+        <string>Pay No Mind</string>
+        <key>artist</key>
+        <string>Madeon</string>
+        <key>album</key>
+        <string>Pay No Mind</string>
+        <key>artworkfilename</key>
+        <string>Madeon - Pay No Mind</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Calvin Harris - Pray to God (Calvin Harris vs Mike Pickering Hacienda Remix)</string>
+        <key>songname</key>
+        <string>Pray to God (Calvin Harris vs Mike Pickering Hacienda Remix)</string>
+        <key>artist</key>
+        <string>Calvin Harris</string>
+        <key>album</key>
+        <string>Pray to God (Remixes)</string>
+        <key>artworkfilename</key>
+        <string>Calvin Harris - Pray to God (Calvin Harris vs Mike Pickering Hacienda Remix)</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>阿南亮子 - Refrain</string>
+        <key>songname</key>
+        <string>Refrain</string>
+        <key>artist</key>
+        <string>阿南亮子</string>
+        <key>album</key>
+        <string>Eternal Light</string>
+        <key>artworkfilename</key>
+        <string>阿南亮子 - Refrain</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Giorgio Moroder - Right Here, Right Now</string>
+        <key>songname</key>
+        <string>Right Here, Right Now</string>
+        <key>artist</key>
+        <string>Giorgio Moroder</string>
+        <key>album</key>
+        <string>Déjà Vu</string>
+        <key>artworkfilename</key>
+        <string>Giorgio Moroder - Right Here, Right Now</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Lorde - Royals</string>
+        <key>songname</key>
+        <string>Royals</string>
+        <key>artist</key>
+        <string>Lorde</string>
+        <key>album</key>
+        <string>2014 GRAMMY Nominees</string>
+        <key>artworkfilename</key>
+        <string>Lorde - Royals</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Wiz Khalifa - See You Again (《速度与激情7》电影片尾曲)</string>
+        <key>songname</key>
+        <string>See You Again</string>
+        <key>artist</key>
+        <string>Wiz Khalifa</string>
+        <key>album</key>
+        <string>Furious 7</string>
+        <key>artworkfilename</key>
+        <string>Wiz Khalifa - See You Again (《速度与激情7》电影片尾曲)</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Jami Soul;Mr. Bang;시나에 - She</string>
+        <key>songname</key>
+        <string>She</string>
+        <key>artist</key>
+        <string>Jami Soul;Mr. Bang;시나에</string>
+        <key>album</key>
+        <string>여보세요</string>
+        <key>artworkfilename</key>
+        <string>Jami Soul;Mr. Bang;시나에 - She</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Fall Out Boy - The Phoenix</string>
+        <key>songname</key>
+        <string>The Phoenix</string>
+        <key>artist</key>
+        <string>Fall Out Boy</string>
+        <key>album</key>
+        <string>Save Rock and Roll</string>
+        <key>artworkfilename</key>
+        <string>Fall Out Boy - The Phoenix</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Fetty Wap - Trap Queen (Explicit)</string>
+        <key>songname</key>
+        <string>Trap Queen (Explicit)</string>
+        <key>artist</key>
+        <string>Fetty Wap</string>
+        <key>album</key>
+        <string>Trap Queen</string>
+        <key>artworkfilename</key>
+        <string>Fetty Wap - Trap Queen (Explicit)</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Austin Mahone - U</string>
+        <key>songname</key>
+        <string>U</string>
+        <key>artist</key>
+        <string>Austin Mahone</string>
+        <key>album</key>
+        <string>U</string>
+        <key>artworkfilename</key>
+        <string>Austin Mahone - U</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Shayne Ward - Until You</string>
+        <key>songname</key>
+        <string>Until You</string>
+        <key>artist</key>
+        <string>Shayne Ward</string>
+        <key>album</key>
+        <string>Until You</string>
+        <key>artworkfilename</key>
+        <string>Shayne Ward - Until You</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Baha Men - Who Let The Dogs Out (《四平青年》电影插曲)</string>
+        <key>songname</key>
+        <string>Who Let The Dogs Out</string>
+        <key>artist</key>
+        <string>Baha Men</string>
+        <key>album</key>
+        <string>Who Let The Dogs Out</string>
+        <key>artworkfilename</key>
+        <string>Baha Men - Who Let The Dogs Out (《四平青年》电影插曲)</string>
+    </dict>
+    <dict>
+        <key>songfilename</key>
+        <string>Lana Del Rey - Young And Beautiful</string>
+        <key>songname</key>
+        <string>Young And Beautiful</string>
+        <key>artist</key>
+        <string>Lana Del Rey</string>
+        <key>album</key>
+        <string>Young And Beautiful</string>
+        <key>artworkfilename</key>
+        <string>Lana Del Rey - Young And Beautiful</string>
+    </dict>
+</array>
+</plist>

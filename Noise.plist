@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Blender 01</string>
+	<string>Blender 02</string>
+    <string>Dryer 01</string>
+    <string>Dryer 02</string>
+    <string>Dryer 03</string>
+    <string>Fan 01</string>
+    <string>Fan 02</string>
+    <string>Fan 03</string>
+    <string>Fan 04</string>
+    <string>Fan 05</string>
+    <string>Fan 06</string>
+    <string>Heater 01</string>
+    <string>Heater 02</string>
+    <string>Heater 03</string>
+    <string>Motor 01</string>
+    <string>Ocean 01</string>
+    <string>Ocean 02</string>
+    <string>Ocean 03</string>
+    <string>Ocean 04</string>
+    <string>Ocean 05</string>
+    <string>Ocean 06</string>
+    <string>PinkNoise 01</string>
+    <string>Rain 01</string>
+    <string>Rain 02</string>
+    <string>Rain 03</string>
+    <string>Rain 04</string>
+    <string>Rain 05</string>
+    <string>Rain 06</string>
+    <string>Rain 07</string>
+    <string>Refrigerator 01</string>
+    <string>Shower 01</string>
+    <string>Storm 01</string>
+    <string>Stream 01</string>
+    <string>Stream 02</string>
+    <string>Train 01</string>
+    <string>Train 02</string>
+    <string>Underwater 01</string>
+    <string>Underwater 02</string>
+    <string>Underwater 03</string>
+    <string>Vacuum 01</string>
+    <string>Water 01</string>
+    <string>WaterBoiling 01</string>
+    <string>WaterBoiling 02</string>
+    <string>Waterfall 01</string>
+    <string>Waves 01</string>
+    <string>Waves 02</string>
+    <string>White Noise 01</string>
+    <string>White Noise 02</string>
+    <string>White Noise 03</string>
+    <string>White Noise 04</string>
+</array>
+</plist>
